@@ -1,0 +1,8 @@
+name: SimpleSurvie
+version: 1.0
+author: DechireT
+main: fr.dechiret.simplesurvie.Plugin
+api-version: 1.17
+
+commands:
+  boussole-tracker:
